@@ -1,7 +1,7 @@
 # Session 11 EPAI 3 Assignment
 
 Here is the Google Colab link where various operations on the PolygonsIterator have been showcased - 
-https://colab.research.google.com/drive/1WBiUHKWihnEuKMsFQcuPffVZ3yoNzi2n?usp=sharing
+https://drive.google.com/file/d/1wfom9un7sVGIeeamenf1F22KhKrI5JYq/view?usp=sharing
 
 ## Polygon class
 
